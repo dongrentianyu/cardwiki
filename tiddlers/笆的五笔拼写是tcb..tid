@@ -1,26 +1,22 @@
 IsOtherText: yes
-caption: 笆的五笔拼写是<<?c tcb>>
+caption: 笆的五笔拼写是什么？
 created: 20230312214357100
 creator: 马不前
-difficulty: 5
-due: 20230314135213853
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20230312135213853
+difficulty: 5.385302018885184
+due: 20230414101636326
+grade: 0
+history: [{"due":"20230314135213853","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230312135213853"}]
+interval: 32
+lapses: 1
+modified: 20230413101636326
 modifier: 马不前
 reps: 1
-retrievability: 1
-review: 20230312135213853
-stability: 2
+retrievability: 0.18530201888518416
+review: 20230413101636326
+stability: 1.4816364413634358
 tags: ?
 title: 笆的五笔拼写是tcb.
 tmap.id: d9998c15-604b-4e3a-8706-dacbc525371d
 type: text/vnd.tiddlywiki
 
-
-
-
-
-
+tcb

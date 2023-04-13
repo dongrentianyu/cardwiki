@@ -1,11 +1,18 @@
 IsOtherText: yes
 created: 20230308212023151
 creator: 马不前
-due: 20230313141236820
+difficulty: 5
+due: 20230414101543588
+grade: -1
+history: []
 interval: 1
-modified: 20230312141236820
+lapses: 0
+modified: 20230413101543588
 modifier: 马不前
-review: 20230312141236820
+reps: 1
+retrievability: 1
+review: 20230413101543588
+stability: 2
 tags: ? .
 title: 写作是隐含在历史活动中的
 tmap.id: 6eb600eb-b41d-4f96-b00e-5268d538c765
