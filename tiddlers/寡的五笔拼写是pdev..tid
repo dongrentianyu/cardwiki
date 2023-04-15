@@ -2,24 +2,21 @@ IsOtherText: yes
 caption: 寡的五笔拼写是<<?c pdev>>
 created: 20230312151705564
 creator: 马不前
-difficulty: 5
-due: 20230314073000878
-grade: -1
-history: []
-interval: 0
+difficulty: 4.366771816996666
+due: 20230604010119483
+grade: 1
+history: [{"due":"20230314073000878","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230312073000878"}]
+interval: 34
 lapses: 0
-modified: 20230312073000878
-reps: 1
-retrievability: 1
-review: 20230312073000878
-stability: 2
+modified: 20230415010119483
+modifier: 马不前
+reps: 2
+retrievability: 0.16677181699666574
+review: 20230415010119482
+stability: 50.42296466483386
 tags: ?
 title: 寡的五笔拼写是pdev.
 tmap.id: db145c39-0bef-4c70-a70e-8b1ea54ba874
 type: text/vnd.tiddlywiki
 
-
-
-
-
-
+pd不用解释，e是指且这个字根，而不是目字的字根，后面的v是力的字根
