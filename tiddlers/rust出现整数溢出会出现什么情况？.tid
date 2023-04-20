@@ -1,0 +1,15 @@
+IsOtherText: question
+caption: rust出现整数溢出会出现什么情况？
+created: 20230420164747830
+creator: 马不前
+tags: ?
+title: rust出现整数溢出会出现什么情况？
+tmap.id: 34f679d5-f032-425a-85cb-aa597109a42a
+type: text/vnd.tiddlywiki
+
+在调试模式下编译，rust会检查整数溢出。如果溢出就会panic，恐慌。
+
+但在发布模式下，release，rust就不会检查整数溢出。
+
+
+

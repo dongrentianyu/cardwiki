@@ -1,9 +1,11 @@
-caption:rust语言中标量类型是什么意思？
-created:20230420162505576
-creator:马不前
-IsOtherText:question
-tags:? 
-title:rust语言中标量类型是什么意思？
+IsOtherText: question
+caption: rust语言中标量类型是什么意思？
+created: 20230420162505576
+creator: 马不前
+tags: ?
+title: rust语言中标量类型是什么意思？
+tmap.id: f536e20f-e809-4246-bac3-8eb69596beee
+type: text/vnd.tiddlywiki
 
 一个标量类型代表一个单个的值。
 

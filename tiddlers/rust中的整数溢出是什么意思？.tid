@@ -1,0 +1,13 @@
+IsOtherText: question
+caption: rust中的整数溢出是什么意思？
+created: 20230420164630968
+creator: 马不前
+tags: ?
+title: rust中的整数溢出是什么意思？
+tmap.id: 0400619e-02ba-47dc-af51-10d10a447905
+type: text/vnd.tiddlywiki
+
+超出类型后缀范围，比如u8的范围是0-255，但如果设置一个变量为256，那就会出现整数溢出。
+
+
+

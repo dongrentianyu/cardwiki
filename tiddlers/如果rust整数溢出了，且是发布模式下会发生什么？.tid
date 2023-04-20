@@ -1,0 +1,15 @@
+IsOtherText: question
+caption: 如果rust整数溢出了，且是发布模式下会发生什么？
+created: 20230420164954161
+creator: 马不前
+tags: ?
+title: 如果rust整数溢出了，且是发布模式下会发生什么？
+tmap.id: c5eb398c-82a0-41e4-9655-7ba3f3758c71
+type: text/vnd.tiddlywiki
+
+rust会执行“环绕”操作，比如256就会变成0，257就变成了1，以此类推。但程序不会panic。
+
+我不知道这个设计是啥意思，但我感觉可能在其他语言里不太要求这个，但为了严格一点，所以在调试的时候会出问题。
+
+
+
