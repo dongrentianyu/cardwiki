@@ -1,0 +1,25 @@
+IsOtherText: question
+caption: 声明常量使用什么关键词？
+created: 20230419220751689
+creator: 马不前
+difficulty: 5
+due: 20230422034540771
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20230420034540771
+modifier: 马不前
+reps: 1
+retrievability: 1
+review: 20230420034540771
+stability: 2
+tags: ?
+title: 声明常量使用什么关键词？
+tmap.id: 3cbf18c3-1942-4de1-8307-7e9ec7db3c41
+type: text/vnd.tiddlywiki
+
+使用const关键词
+
+
+

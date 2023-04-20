@@ -2,18 +2,18 @@ IsOtherText: yes
 caption: 此在展开状态的三个生存论性质构成其一是<<?c 现身情态>>
 created: 20230312195057728
 creator: 马不前
-difficulty: 5.385302018885184
-due: 20230414101655014
+difficulty: 6.19318287891843
+due: 20230421041035378
 grade: 0
-history: [{"due":"20230314115310986","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230312115310986"}]
-interval: 32
-lapses: 1
-modified: 20230413101655014
+history: [{"due":"20230314115310986","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230312115310986"},{"due":"20230414101655014","interval":32,"difficulty":5.385302018885184,"stability":1.4816364413634358,"retrievability":0.18530201888518416,"grade":0,"lapses":1,"reps":1,"review":"20230413101655014"}]
+interval: 7
+lapses: 2
+modified: 20230420041035378
 modifier: 马不前
 reps: 1
-retrievability: 0.18530201888518416
-review: 20230413101655014
-stability: 1.4816364413634358
+retrievability: 0.607880860033245
+review: 20230420041035378
+stability: 1.097623272188053
 tags: ?
 title: 此在展开状态的三个生存论性质构成其一是现身情态.
 tmap.id: 7db3715c-262c-41df-b036-9f5bf7cb483a

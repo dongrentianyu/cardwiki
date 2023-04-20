@@ -1,0 +1,25 @@
+IsOtherText: question
+caption: rust语言中的shadowing里前后变量类型转换时需要标明类型吗？
+created: 20230419230758508
+creator: 马不前
+difficulty: 5
+due: 20230422034752475
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20230420034752475
+modifier: 马不前
+reps: 1
+retrievability: 1
+review: 20230420034752475
+stability: 2
+tags: ?
+title: rust语言中的shadowing里前后变量类型转换时需要标明类型吗？
+tmap.id: b91e8fb2-a2b2-4095-a389-475e62524482
+type: text/vnd.tiddlywiki
+
+不需要，这也是shadowing的好处之一，就是可以避免一些不必要的重复的变量名。
+
+
+

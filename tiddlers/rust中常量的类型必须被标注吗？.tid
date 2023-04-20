@@ -1,0 +1,25 @@
+IsOtherText: question
+caption: rust中常量的类型必须被标注吗？
+created: 20230419220832799
+creator: 马不前
+difficulty: 5
+due: 20230422034544385
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20230420034544385
+modifier: 马不前
+reps: 1
+retrievability: 1
+review: 20230420034544385
+stability: 2
+tags: ?
+title: rust中常量的类型必须被标注吗？
+tmap.id: b8cc5c79-ce8b-438b-83e1-4bf086d4cf5e
+type: text/vnd.tiddlywiki
+
+必须被标注
+
+
+

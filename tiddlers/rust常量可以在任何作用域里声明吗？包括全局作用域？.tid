@@ -1,0 +1,25 @@
+IsOtherText: question
+caption: rust常量可以在任何作用域里声明吗？包括全局作用域？
+created: 20230419220859733
+creator: 马不前
+difficulty: 5
+due: 20230422034701593
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20230420034701593
+modifier: 马不前
+reps: 1
+retrievability: 1
+review: 20230420034701593
+stability: 2
+tags: ?
+title: rust常量可以在任何作用域里声明吗？包括全局作用域？
+tmap.id: c2110200-41ad-4d08-b543-2e163244bd2c
+type: text/vnd.tiddlywiki
+
+是的，可以在任何作用域里声明，包括全局作用域。
+
+
+

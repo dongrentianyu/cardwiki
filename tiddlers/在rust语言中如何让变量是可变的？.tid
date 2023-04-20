@@ -1,0 +1,25 @@
+IsOtherText: question
+caption: 在rust语言中如何让变量是可变的？
+created: 20230419220206186
+creator: 马不前
+difficulty: 5
+due: 20230422034152315
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20230420034152315
+modifier: 马不前
+reps: 1
+retrievability: 1
+review: 20230420034152315
+stability: 2
+tags: ?
+title: 在rust语言中如何让变量是可变的？
+tmap.id: c7e1d45b-0aba-4832-baa9-e5cbcb9ac6b5
+type: text/vnd.tiddlywiki
+
+在变量前面使用mut关键词，这样变量就是可变的了
+
+
+

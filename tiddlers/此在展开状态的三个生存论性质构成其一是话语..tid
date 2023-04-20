@@ -2,18 +2,18 @@ IsOtherText: yes
 caption: 此在展开状态的三个生存论性质构成其一是<<?c 话语>>
 created: 20230312195216441
 creator: 马不前
-difficulty: 5.385302018885184
-due: 20230414101646322
+difficulty: 6.19318287891843
+due: 20230421041023376
 grade: 0
-history: [{"due":"20230314115323228","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230312115323228"}]
-interval: 32
-lapses: 1
-modified: 20230413101646322
+history: [{"due":"20230314115323228","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230312115323228"},{"due":"20230414101646322","interval":32,"difficulty":5.385302018885184,"stability":1.4816364413634358,"retrievability":0.18530201888518416,"grade":0,"lapses":1,"reps":1,"review":"20230413101646322"}]
+interval: 7
+lapses: 2
+modified: 20230420041023376
 modifier: 马不前
 reps: 1
-retrievability: 0.18530201888518416
-review: 20230413101646322
-stability: 1.4816364413634358
+retrievability: 0.607880860033245
+review: 20230420041023376
+stability: 1.097623272188053
 tags: ?
 title: 此在展开状态的三个生存论性质构成其一是话语.
 tmap.id: e6c29f6a-d3a3-4a6d-b7dc-5de7c1ab80ce

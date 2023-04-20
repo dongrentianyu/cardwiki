@@ -1,0 +1,25 @@
+IsOtherText: question
+caption: 使用shadowing之后，新变量默认是可变的还是不可变的？
+created: 20230419230231247
+creator: 马不前
+difficulty: 5
+due: 20230422034727629
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20230420034727629
+modifier: 马不前
+reps: 1
+retrievability: 1
+review: 20230420034727629
+stability: 2
+tags: ?
+title: 使用shadowing之后，新变量默认是可变的还是不可变的？
+tmap.id: cb2f320f-95b5-450e-a9f0-525ba6b6032e
+type: text/vnd.tiddlywiki
+
+默认是不可变的，如果要改变应该要加上mut关键字。不然编译会报错。
+
+
+

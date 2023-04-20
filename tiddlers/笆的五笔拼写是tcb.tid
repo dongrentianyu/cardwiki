@@ -1,0 +1,24 @@
+IsOtherText: yes
+caption: 笆的五笔拼写是什么？
+created: 20230312214357100
+creator: 马不前
+difficulty: 6.19318287891843
+due: 20230421041010572
+grade: 0
+history: [{"due":"20230314135213853","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230312135213853"},{"due":"20230414101636326","interval":32,"difficulty":5.385302018885184,"stability":1.4816364413634358,"retrievability":0.18530201888518416,"grade":0,"lapses":1,"reps":1,"review":"20230413101636326"}]
+interval: 7
+lapses: 2
+modified: 20230420041010572
+modifier: 马不前
+reps: 1
+retrievability: 0.607880860033245
+review: 20230420041010572
+stability: 1.097623272188053
+tags: ?
+title: 笆的五笔拼写是tcb
+tmap.id: d9998c15-604b-4e3a-8706-dacbc525371d
+type: text/vnd.tiddlywiki
+
+tcb
+
+t是竹子头，c是巴字（cnh），b是最后一笔弯钩。

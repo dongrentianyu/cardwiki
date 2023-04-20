@@ -1,0 +1,27 @@
+IsOtherText: question
+caption: 写一个rust声明常量的例子
+created: 20230419221635211
+creator: 马不前
+difficulty: 5
+due: 20230422034714307
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20230420034714307
+modifier: 马不前
+reps: 1
+retrievability: 1
+review: 20230420034714307
+stability: 2
+tags: ?
+title: 写一个rust声明常量的例子
+tmap.id: a5a5ca25-0860-41fe-a4be-fdb381117fdd
+type: text/vnd.tiddlywiki
+
+const MAX_POINT : u32 = 100_00;
+
+稍微解释一下，怕后面忘了。const声明词，没问题。大写的常量，用英文冒号接后面的类型，u32表示这是一个数值常量。后面接一个数值，可以用下划线来加强可读性。
+
+
+

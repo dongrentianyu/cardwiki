@@ -1,0 +1,25 @@
+IsOtherText: question
+caption: 常量是什么意思？
+created: 20230419220406606
+creator: 马不前
+difficulty: 5
+due: 20230422034524730
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20230420034524730
+modifier: 马不前
+reps: 1
+retrievability: 1
+review: 20230420034524730
+stability: 2
+tags: ?
+title: 常量是什么意思？
+tmap.id: 7902bb3d-3e7f-42fb-924c-c369a12aff5d
+type: text/vnd.tiddlywiki
+
+常量就是在绑定值后，不可改变的量
+
+
+
