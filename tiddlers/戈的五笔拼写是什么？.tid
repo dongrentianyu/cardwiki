@@ -2,24 +2,23 @@ IsOtherText: question
 caption: 戈的五笔拼写是什么？
 created: 20230413184700025
 creator: 马不前
-difficulty: 5
-due: 20230417005904107
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20230415005904107
+difficulty: 5.968433471420917
+due: 20230421075754989
+grade: 0
+history: [{"due":"20230417005904107","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230415005904107"}]
+interval: 5
+lapses: 1
+modified: 20230420075754990
 modifier: 马不前
 reps: 1
-retrievability: 1
-review: 20230415005904107
-stability: 2
+retrievability: 0.7684334714209162
+review: 20230420075754989
+stability: 1.4816364413634358
 tags: ?
 title: 戈的五笔拼写是什么？
 tmap.id: c915d5ec-0d45-491a-a8d7-62764e43f5dd
 type: text/vnd.tiddlywiki
 
-
-
 agny
 
+感觉这个字拆解很生硬，a是这个字的词根，g是横，n是钩，最后是点。

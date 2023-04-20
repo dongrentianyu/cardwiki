@@ -2,24 +2,23 @@ IsOtherText: question
 caption: 裉的五笔拼写是什么？
 created: 20230413184838489
 creator: 马不前
-difficulty: 5
-due: 20230417005904244
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20230415005904244
+difficulty: 5.968433471420917
+due: 20230421080039921
+grade: 0
+history: [{"due":"20230417005904244","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230415005904244"}]
+interval: 5
+lapses: 1
+modified: 20230420080039921
 modifier: 马不前
 reps: 1
-retrievability: 1
-review: 20230415005904244
-stability: 2
+retrievability: 0.7684334714209162
+review: 20230420080039921
+stability: 1.4816364413634358
 tags: ?
 title: 裉的五笔拼写是什么？
 tmap.id: ba769aa7-de49-4dcc-ab9e-651348894cd3
 type: text/vnd.tiddlywiki
 
-
-
 puvy
 
+pu是左边的偏旁部首，这个不用解释。v是艮的字根，y是最后一点，容易忘记就是v是艮的字根这一点。

@@ -2,21 +2,23 @@ IsOtherText: yes
 caption: 蹈的五笔拼写是什么？
 created: 20230312150328825
 creator: 马不前
-difficulty: 5.385302018885184
-due: 20230414101831560
+difficulty: 6.19318287891843
+due: 20230421074940400
 grade: 0
-history: [{"due":"20230314072939488","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230312072939488"}]
-interval: 32
-lapses: 1
-modified: 20230413101831560
+history: [{"due":"20230314072939488","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230312072939488"},{"due":"20230414101831560","interval":32,"difficulty":5.385302018885184,"stability":1.4816364413634358,"retrievability":0.18530201888518416,"grade":0,"lapses":1,"reps":1,"review":"20230413101831560"}]
+interval: 7
+lapses: 2
+modified: 20230420074940400
 modifier: 马不前
 reps: 1
-retrievability: 0.18530201888518416
-review: 20230413101831560
-stability: 1.4816364413634358
+retrievability: 0.607880860033245
+review: 20230420074940400
+stability: 1.097623272188053
 tags: ?
 title: 蹈的五笔拼写是
 tmap.id: 7812c02c-7e9f-4405-97ac-479f02690598
 type: text/vnd.tiddlywiki
 
 khee
+
+kh不用解释，第一个e是上面的内容，下面一个e是下面的臼。
