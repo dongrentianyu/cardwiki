@@ -1,0 +1,11 @@
+caption:rust整数类型的列表内容有那些？
+created:20230420163421723
+creator:马不前
+IsOtherText:question
+tags:? 
+title:rust整数类型的列表内容有那些？
+
+i8，i16，i32，i64，i128，isize，前面的开头都可以替换成u表示无符号的。后面数值表示占的位数。以无符号为例，无符号范围表示0到2的n次方-1.n是后面的数值。
+
+
+
