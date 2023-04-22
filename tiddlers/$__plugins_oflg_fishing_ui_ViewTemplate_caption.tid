@@ -1,0 +1,36 @@
+code-body: yes
+created: 20230422034407528
+creator: 马不前
+list-after: $:/core/ui/ViewTemplate/title
+modified: 20230422035416734
+modifier: 马不前
+tags: $:/tags/ViewTemplate
+title: $:/plugins/oflg/fishing/ui/ViewTemplate/caption
+type: text/vnd.tiddlywiki
+
+\whitespace trim
+
+<$list
+    filter={{$:/config/FishingCascade/caption}}
+>
+    <$reveal
+        default={{{ [<currentTiddler>get[caption]trim[]] }}}
+        type="match"
+        text=""
+    >
+		<div style="font-size: 24px;">
+        <$text
+            text=<<currentTiddler>>
+        />
+				</div>
+    </$reveal>
+    <$reveal
+        default={{{ [<currentTiddler>get[caption]trim[]] }}}
+        type="nomatch"
+        text=""
+    >
+      				<div style="font-size: 24px;">
+            <$transclude field="caption"/>
+						</div>
+    </$reveal>
+</$list>

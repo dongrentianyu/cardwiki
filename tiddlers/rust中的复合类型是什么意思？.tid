@@ -1,9 +1,11 @@
-caption:rust中的复合类型是什么意思？
-created:20230422111035679
-creator:马不前
-IsOtherText:question
-tags:? 
-title:rust中的复合类型是什么意思？
+IsOtherText: question
+caption: rust中的复合类型是什么意思？
+created: 20230422111035679
+creator: 马不前
+tags: ?
+title: rust中的复合类型是什么意思？
+tmap.id: 743a714e-e6c4-48a2-b555-aec9c0ad6c89
+type: text/vnd.tiddlywiki
 
 复合类型就是可以将多个值放在一个类型里。
 

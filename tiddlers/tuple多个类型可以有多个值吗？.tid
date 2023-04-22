@@ -1,9 +1,11 @@
-caption:tuple多个类型可以有多个值吗？
-created:20230422112057822
-creator:马不前
-IsOtherText:question
-tags:? 
-title:tuple多个类型可以有多个值吗？
+IsOtherText: question
+caption: tuple多个类型可以有多个值吗？
+created: 20230422112057822
+creator: 马不前
+tags: ?
+title: tuple多个类型可以有多个值吗？
+tmap.id: a11ecfd6-68df-43b1-b1bc-52cc4014438b
+type: text/vnd.tiddlywiki
 
 可以有多个值。
 

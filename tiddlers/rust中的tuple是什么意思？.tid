@@ -1,9 +1,11 @@
-caption:rust中的tuple是什么意思？
-created:20230422111841488
-creator:马不前
-IsOtherText:question
-tags:? 
-title:rust中的tuple是什么意思？
+IsOtherText: question
+caption: rust中的tuple是什么意思？
+created: 20230422111841488
+creator: 马不前
+tags: ?
+title: rust中的tuple是什么意思？
+tmap.id: 438285db-a8e3-4413-bf4d-a770fafbedb7
+type: text/vnd.tiddlywiki
 
 tuple可以将多个类型的多个值放在一个类型里。
 

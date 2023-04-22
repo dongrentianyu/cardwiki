@@ -1,9 +1,11 @@
-caption:tuple可以将多个类型的值放在一个类型里吗？
-created:20230422111927934
-creator:马不前
-IsOtherText:question
-tags:? 
-title:tuple可以将多个类型的值放在一个类型里吗？
+IsOtherText: question
+caption: tuple可以将多个类型的值放在一个类型里吗？
+created: 20230422111927934
+creator: 马不前
+tags: ?
+title: tuple可以将多个类型的值放在一个类型里吗？
+tmap.id: 037a7c3e-1d84-4cf4-8477-1c5bf0c35d9b
+type: text/vnd.tiddlywiki
 
 可以将多个类型的值放到一个类型里
 
