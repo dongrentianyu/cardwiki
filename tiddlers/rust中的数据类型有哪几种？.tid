@@ -2,12 +2,21 @@ IsOtherText: question
 caption: rust中的数据类型有哪几种？
 created: 20230420162432540
 creator: 马不前
+difficulty: 5
+due: 20230424024639691
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20230422024639691
+modifier: 马不前
+reps: 1
+retrievability: 1
+review: 20230422024639691
+stability: 2
 tags: ?
 title: rust中的数据类型有哪几种？
 tmap.id: c90a95b0-6db5-46ba-b452-2d7324a9b636
 type: text/vnd.tiddlywiki
 
-有两种，一种是标题类型，一种是复合类型
-
-
-
+有两种，一种是标量类型，一种是复合类型

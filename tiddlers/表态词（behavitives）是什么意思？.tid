@@ -2,18 +2,18 @@ IsOtherText: question
 caption: 表态词（behavitives）是什么意思？
 created: 20230415085729852
 creator: 马不前
-difficulty: 5
-due: 20230422034140225
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20230420034140225
+difficulty: 6.1000000000000005
+due: 20230423025609266
+grade: 0
+history: [{"due":"20230422034140225","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230420034140225"}]
+interval: 2
+lapses: 1
+modified: 20230422025609266
 modifier: 马不前
 reps: 1
-retrievability: 1
-review: 20230420034140225
-stability: 2
+retrievability: 0.9
+review: 20230422025609266
+stability: 1.4816364413634358
 tags: ?
 title: 表态词（behavitives）是什么意思？
 tmap.id: 361d9747-5b9d-4c5c-96ea-3eea7129f23b
@@ -21,5 +21,4 @@ type: text/vnd.tiddlywiki
 
 我们用这类词来道歉、祝贺、感谢或诅咒等。
 
-
-
+表面上理解就是用来表达状态。比如道歉就是处于道歉的状态下。
