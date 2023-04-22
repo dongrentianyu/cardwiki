@@ -1,0 +1,11 @@
+caption:简单写一个tuple的例子
+created:20230422112531435
+creator:马不前
+IsOtherText:question
+tags:? 
+title:简单写一个tuple的例子
+
+let state: (i32,f64,u8) = (500,6.4,1);
+
+
+
