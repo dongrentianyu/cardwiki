@@ -1,0 +1,14 @@
+caption:数组的劣势？
+created:20230429103419985
+creator:马不前
+IsOtherText:question
+tags:? 
+title:数组的劣势？
+
+数组没有vector灵活。
+
+vector和数组类似，由标准库提供。但vector的长度可以改变，就意味着更加灵活。如果不确定是用数组还是用vector，那么大概率是使用vector。
+
+用数组表示月份或者星期这类长度固定不变的量，非常有用。
+
+

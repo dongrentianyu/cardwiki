@@ -1,0 +1,18 @@
+caption:如何访问tuple的元素？
+created:20230429102520142
+creator:马不前
+IsOtherText:question
+tags:? 
+title:如何访问tuple的元素？
+
+在tuple变量中使用点标记法，后接元素的索引号。
+
+```
+fn main () {
+let tup:(i32,f64,u8) = (500,6.4,1);
+println!("{},{},{}",tup.0,tup.1,tup.2) ;
+}
+```
+
+
+

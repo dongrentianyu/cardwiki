@@ -8,7 +8,7 @@ grade: 1
 history: [{"due":"20230424143811974","interval":0,"difficulty":5,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230423143811974"}]
 interval: 2
 lapses: 0
-modified: 20230425123021800
+modified: 20230429022417586
 modifier: 马不前
 reps: 2
 retrievability: 0.8181687265356021
@@ -21,5 +21,12 @@ type: text/vnd.tiddlywiki
 
 可以用模式匹配来解构（destructure）一个tuple来获取元素的值。
 
+```
+fn main () {
+let tup:(i32,f64,u8) = (500,6.4,1);
+let (x,y,z) = tup;
+println!("{},{},{}",x,y,z) ;
+}
+```
 
-
+这样就用xyz获取到了对应的tup里的tuple值。

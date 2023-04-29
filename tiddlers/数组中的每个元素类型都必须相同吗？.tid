@@ -1,0 +1,11 @@
+caption:数组中的每个元素类型都必须相同吗？
+created:20230429102855779
+creator:马不前
+IsOtherText:question
+tags:? 
+title:数组中的每个元素类型都必须相同吗？
+
+必须相同，不然编译器会报错
+
+
+
