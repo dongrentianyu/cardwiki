@@ -1,9 +1,11 @@
-caption:如何声明一个数组？
-created:20230429103021126
-creator:马不前
-IsOtherText:question
-tags:? 
-title:如何声明一个数组？
+IsOtherText: question
+caption: 如何声明一个数组？
+created: 20230429103021126
+creator: 马不前
+tags: ?
+title: 如何声明一个数组？
+tmap.id: 9d765fa5-4b35-4fdd-ad10-882b1f1551ca
+type: text/vnd.tiddlywiki
 
 在中括号里，各值用英文逗号隔开。
 

@@ -1,9 +1,11 @@
-caption:rust数组中的长度是固定的还是不固定的？
-created:20230429102928259
-creator:马不前
-IsOtherText:question
-tags:? 
-title:rust数组中的长度是固定的还是不固定的？
+IsOtherText: question
+caption: rust数组中的长度是固定的还是不固定的？
+created: 20230429102928259
+creator: 马不前
+tags: ?
+title: rust数组中的长度是固定的还是不固定的？
+tmap.id: 6c8fb352-72d9-4f8a-b165-760311d9b485
+type: text/vnd.tiddlywiki
 
 是固定的。
 

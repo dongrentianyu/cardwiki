@@ -1,9 +1,11 @@
-caption:数组中的每个元素类型都必须相同吗？
-created:20230429102855779
-creator:马不前
-IsOtherText:question
-tags:? 
-title:数组中的每个元素类型都必须相同吗？
+IsOtherText: question
+caption: 数组中的每个元素类型都必须相同吗？
+created: 20230429102855779
+creator: 马不前
+tags: ?
+title: 数组中的每个元素类型都必须相同吗？
+tmap.id: 68f2eec8-a587-48e7-a9c7-124d7fb78404
+type: text/vnd.tiddlywiki
 
 必须相同，不然编译器会报错
 

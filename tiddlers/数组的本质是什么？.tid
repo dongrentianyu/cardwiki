@@ -1,0 +1,11 @@
+caption:数组的本质是什么？
+created:20230429192229699
+creator:马不前
+IsOtherText:question
+tags:? 
+title:数组的本质是什么？
+
+数组是stack上分配的单个块的内存。
+
+现在我也不太理解栈是什么意思，但先这样做笔记。
+
