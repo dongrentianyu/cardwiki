@@ -2,18 +2,18 @@ IsOtherText: yes
 caption: 养的五笔拼写是<<?c ugjj>>
 created: 20230312145831317
 creator: 马不前
-difficulty: 5.395581868325116
-due: 20230427025451771
+difficulty: 5.459989290862935
+due: 20230514021036895
 grade: 1
-history: [{"due":"20230314072932515","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230312072932515"},{"due":"20230421035619548","interval":39,"difficulty":5.328153046269922,"stability":1.4816364413634358,"retrievability":0.12815304626992163,"grade":0,"lapses":1,"reps":1,"review":"20230420035619548"}]
-interval: 2
+history: [{"due":"20230314072932515","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230312072932515"},{"due":"20230421035619548","interval":39,"difficulty":5.328153046269922,"stability":1.4816364413634358,"retrievability":0.12815304626992163,"grade":0,"lapses":1,"reps":1,"review":"20230420035619548"},{"due":"20230427025451771","interval":2,"difficulty":5.395581868325116,"stability":5.061548326107191,"retrievability":0.8674288220551943,"grade":1,"lapses":1,"reps":2,"review":"20230422025451770"}]
+interval: 7
 lapses: 1
-modified: 20230422025451771
+modified: 20230429021036895
 modifier: 马不前
-reps: 2
-retrievability: 0.8674288220551943
-review: 20230422025451770
-stability: 5.061548326107191
+reps: 3
+retrievability: 0.8644074225378193
+review: 20230429021036895
+stability: 14.77907676463185
 tags: ?
 title: 养的五笔拼写是ugjj
 tmap.id: d45e4c7d-cc5d-478f-90d7-7884af8519df

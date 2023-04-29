@@ -1,0 +1,25 @@
+IsOtherText: question
+caption: rust中的字符类型用来做什么？
+created: 20230420224247672
+creator: 马不前
+difficulty: 6.835516724064039
+due: 20230430020331009
+grade: 0
+history: [{"due":"20230424024937806","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230422024937806"},{"due":"20230426123355478","interval":3,"difficulty":6.0538149682454625,"stability":0.7778591317158038,"retrievability":0.8538149682454624,"grade":0,"lapses":1,"reps":1,"review":"20230425123355477"}]
+interval: 4
+lapses: 2
+modified: 20230429020331009
+modifier: 马不前
+reps: 1
+retrievability: 0.5817017558185764
+review: 20230429020331009
+stability: 0.5762522178987278
+tags: ?
+title: rust中的字符类型用来做什么？
+tmap.id: 3e571ab9-9184-4898-a1bd-62a93ca14ee1
+type: text/vnd.tiddlywiki
+
+char类型被用来描述语言中最基础的单个字符
+
+
+

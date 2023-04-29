@@ -1,0 +1,24 @@
+[
+    {
+        "created": "20230413101441270",
+        "creator": "马不前",
+        "text": "",
+        "title": "奥斯丁认为的五类词分别有哪些？",
+        "modified": "20230429020953433",
+        "modifier": "马不前",
+        "tags": "?",
+        "type": "text/vnd.tiddlywiki",
+        "caption": "五类词分别有哪些？<<?s \"\"\"\nA判定词\nB状态词\nC承诺词\nD描述词\nE阐述词\nF行使词\nG表态词\n\"\"\"ACEFG>>",
+        "difficulty": "6.093194070807758",
+        "due": "20230513020953433",
+        "grade": "1",
+        "history": "[{\"due\":\"20230417005831714\",\"interval\":0,\"difficulty\":5,\"stability\":2,\"retrievability\":1,\"grade\":-1,\"lapses\":0,\"reps\":1,\"review\":\"20230415005831714\"},{\"due\":\"20230421080608774\",\"interval\":5,\"difficulty\":5.968433471420917,\"stability\":1.4816364413634358,\"retrievability\":0.7684334714209162,\"grade\":0,\"lapses\":1,\"reps\":1,\"review\":\"20230420080608774\"},{\"due\":\"20230427025359752\",\"interval\":2,\"difficulty\":6.035862293476111,\"stability\":4.791282956598225,\"retrievability\":0.8674288220551943,\"grade\":1,\"lapses\":1,\"reps\":2,\"review\":\"20230422025359752\"}]",
+        "interval": "7",
+        "lapses": "1",
+        "reps": "3",
+        "retrievability": "0.8573317773316477",
+        "review": "20230429020953433",
+        "stability": "13.886157648287393",
+        "tmap.id": "bd468561-8673-4c75-993a-d1224ee20863"
+    }
+]
