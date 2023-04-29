@@ -1,0 +1,11 @@
+caption:cargo run是什么？
+created:20230429213346877
+creator:马不前
+IsOtherText:question
+tags:? 
+title:cargo run是什么？
+
+cargo run，编译代码并执行结果。如果之前编译成功过，并且源代码没有改变，就会直接运行二进制文件。
+
+
+

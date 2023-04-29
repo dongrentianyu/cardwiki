@@ -1,0 +1,11 @@
+caption:cargo check的用处是什么？
+created:20230429213625047
+creator:马不前
+IsOtherText:question
+tags:? 
+title:cargo check的用处是什么？
+
+cargo check虽然不产生可执行文件，但cargo check要比cargo build要快得多，编写代码的时候可以连续反复调用cargo check来检查代码，提高效率。
+
+
+

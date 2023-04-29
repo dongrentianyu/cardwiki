@@ -1,0 +1,11 @@
+caption:cargo check是什么？
+created:20230429213531442
+creator:马不前
+IsOtherText:question
+tags:? 
+title:cargo check是什么？
+
+cargo check是用来检查代码能否通过编译器的。确保能够通过编译，但不产生任何可执行文件。
+
+
+

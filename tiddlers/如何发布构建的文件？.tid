@@ -1,0 +1,13 @@
+caption:如何发布构建的文件？
+created:20230429213825269
+creator:马不前
+IsOtherText:question
+tags:? 
+title:如何发布构建的文件？
+
+cargo build --release
+
+这种方式编译时会进行优化，但编译时间会更长。且会在targe/release里生成可执行文件。
+
+
+

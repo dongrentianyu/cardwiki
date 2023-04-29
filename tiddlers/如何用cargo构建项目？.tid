@@ -1,0 +1,13 @@
+caption:如何用cargo构建项目？
+created:20230429213008364
+creator:马不前
+IsOtherText:question
+tags:? 
+title:如何用cargo构建项目？
+
+cargo build
+
+执行上面的命令就会创建一个可执行文件，然后点击就可以运行了。
+
+
+
