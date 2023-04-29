@@ -1,0 +1,11 @@
+caption:为什么要用rust？简要说明一下就行。
+created:20230429200504483
+creator:马不前
+IsOtherText:question
+tags:? 
+title:为什么要用rust？简要说明一下就行。
+
+高性能，内存安全。同时能更好利用多处理器。可以替换c类语言，特别是c++，减少很多常见的bug。
+
+
+

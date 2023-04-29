@@ -1,0 +1,13 @@
+caption:rust与其他语言相比较有什么优势？
+created:20230429200707099
+creator:马不前
+IsOtherText:question
+tags:? 
+title:rust与其他语言相比较有什么优势？
+
+c或c++，性能好，但类型系统和内存都不太安全。java或c#，拥有gc，垃圾回收系统，能保证内存安全，但性能不行。
+
+rust兼有高性能和内存安全，并且易于维护，调试，代码安全。
+
+
+

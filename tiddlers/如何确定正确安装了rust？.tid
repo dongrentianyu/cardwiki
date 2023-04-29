@@ -1,0 +1,13 @@
+caption:如何确定正确安装了rust？
+created:20230429201647835
+creator:马不前
+IsOtherText:question
+tags:? 
+title:如何确定正确安装了rust？
+
+rustc --version
+
+有一些其他命令，比如更新和卸载，但现在基本上最新的了，也就不记录了。只说一个安装验证来检查一下。
+
+
+
