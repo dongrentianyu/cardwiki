@@ -1,0 +1,11 @@
+caption:在rust中，crate是什么意思？
+created:20230429204357225
+creator:马不前
+IsOtherText:question
+tags:? 
+title:在rust中，crate是什么意思？
+
+在rust里，代码的包称作crate。也就是包和库。
+
+
+

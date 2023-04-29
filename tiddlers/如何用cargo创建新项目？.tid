@@ -1,0 +1,13 @@
+caption:如何用cargo创建新项目？
+created:20230429203717364
+creator:马不前
+IsOtherText:question
+tags:? 
+title:如何用cargo创建新项目？
+
+cargo new hello_cargo 
+
+执行上面的命令就会生成一个新项目，也会创建一个新的目录，里面有cargo.toml文件，也有src目录文件夹，里面有一个基本的main.rs程序。
+
+
+

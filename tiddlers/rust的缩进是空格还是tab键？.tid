@@ -1,0 +1,11 @@
+caption:rust的缩进是空格还是tab键？
+created:20230429202628196
+creator:马不前
+IsOtherText:question
+tags:? 
+title:rust的缩进是空格还是tab键？
+
+是四个空格，而不是tab键。tab键是生成制表符的。
+
+
+

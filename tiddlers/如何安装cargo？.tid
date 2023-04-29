@@ -1,0 +1,13 @@
+caption:如何安装cargo？
+created:20230429203423971
+creator:马不前
+IsOtherText:question
+tags:? 
+title:如何安装cargo？
+
+安装rust的时候会自动安装cargo。
+
+可执行cargo --version来检查有没有正确安装和对应版本。
+
+
+

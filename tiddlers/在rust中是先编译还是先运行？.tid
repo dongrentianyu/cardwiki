@@ -1,0 +1,11 @@
+caption:在rust中是先编译还是先运行？
+created:20230429203011302
+creator:马不前
+IsOtherText:question
+tags:? 
+title:在rust中是先编译还是先运行？
+
+先编译，而且运行之前必须被编译。在windows系统上会生成一个pdb文件，里面包含了调试信息。
+
+
+

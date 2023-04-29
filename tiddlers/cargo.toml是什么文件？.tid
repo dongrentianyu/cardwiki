@@ -1,0 +1,13 @@
+caption:cargo.toml是什么文件？
+created:20230429204118609
+creator:马不前
+IsOtherText:question
+tags:? 
+title:cargo.toml是什么文件？
+
+toml是tom's obvious,minimal language格式，是cargo的配置格式。
+
+其中会列出[packge][dependencies]等内容，前者是一些基本内容，比如项目名称，使用版本和作者等。后者会列出项目的依赖项。
+
+
+

@@ -1,0 +1,11 @@
+caption:rust程序中main函数的特殊之处？
+created:20230429202512517
+creator:马不前
+IsOtherText:question
+tags:? 
+title:rust程序中main函数的特殊之处？
+
+main函数是每个rust可执行程序最先运行的代码。
+
+
+
