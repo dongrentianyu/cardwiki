@@ -1,9 +1,11 @@
-caption:如何发布构建的文件？
-created:20230429213825269
-creator:马不前
-IsOtherText:question
-tags:? 
-title:如何发布构建的文件？
+IsOtherText: question
+caption: 如何发布构建的文件？
+created: 20230429213825269
+creator: 马不前
+tags: ?
+title: 如何发布构建的文件？
+tmap.id: f29ccdda-02cc-4fba-a1f2-2fde57d36631
+type: text/vnd.tiddlywiki
 
 cargo build --release
 

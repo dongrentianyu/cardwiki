@@ -1,9 +1,11 @@
-caption:如何用cargo构建项目？
-created:20230429213008364
-creator:马不前
-IsOtherText:question
-tags:? 
-title:如何用cargo构建项目？
+IsOtherText: question
+caption: 如何用cargo构建项目？
+created: 20230429213008364
+creator: 马不前
+tags: ?
+title: 如何用cargo构建项目？
+tmap.id: a21ab93e-79b7-43b2-885a-0a543011d40a
+type: text/vnd.tiddlywiki
 
 cargo build
 

@@ -1,9 +1,11 @@
-caption:拉格是一门<<?c ahead-of-time>>编译的语言。
-created:20230429203116323
-creator:马不前
-IsOtherText:Fill-in-the-blank
-tags:? 
-title:拉格是一门ahead-of-time编译的语言。
+IsOtherText: Fill-in-the-blank
+caption: 拉格是一门<<?c ahead-of-time>>编译的语言。
+created: 20230429203116323
+creator: 马不前
+tags: ?
+title: 拉格是一门ahead-of-time编译的语言。
+tmap.id: e6c7079a-575b-49e5-bf09-afe13224be2d
+type: text/vnd.tiddlywiki
 
 其他人无需安装rust，直接把可执行文件给别人运行就行。
 

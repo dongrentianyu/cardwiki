@@ -1,9 +1,11 @@
-caption:在rust中，如果访问的索引超出了数组的范围，会发生什么？
-created:20230429192839685
-creator:马不前
-IsOtherText:question
-tags:? 
-title:在rust中，如果访问的索引超出了数组的范围，会发生什么？
+IsOtherText: question
+caption: 在rust中，如果访问的索引超出了数组的范围，会发生什么？
+created: 20230429192839685
+creator: 马不前
+tags: ?
+title: 在rust中，如果访问的索引超出了数组的范围，会发生什么？
+tmap.id: 9fb1767e-0a19-4ddc-9a25-b79c5691c96c
+type: text/vnd.tiddlywiki
 
 编译时会通过。但也会简单检查一下，如果是很简单的问题，编译就会直接报错。但如果复杂了可能就发现不了。
 

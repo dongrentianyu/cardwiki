@@ -1,9 +1,11 @@
-caption:cargo.lock文件是什么意思？里面有什么内容，有什么用？
-created:20230429213055899
-creator:马不前
-IsOtherText:question
-tags:? 
-title:cargo.lock文件是什么意思？里面有什么内容，有什么用？
+IsOtherText: question
+caption: cargo.lock文件是什么意思？里面有什么内容，有什么用？
+created: 20230429213055899
+creator: 马不前
+tags: ?
+title: cargo.lock文件是什么意思？里面有什么内容，有什么用？
+tmap.id: 5a81ee44-0da3-4e8b-a0d3-09bb016c4c72
+type: text/vnd.tiddlywiki
 
 在第一次运行cargo build时，会在顶层目录上生成cargo.lock文件，该文件负责追踪项目依赖的精确版本，不需要手动修改该文件，也不要去修改。
 

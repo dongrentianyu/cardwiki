@@ -1,9 +1,11 @@
-caption:数组的本质是什么？
-created:20230429192229699
-creator:马不前
-IsOtherText:question
-tags:? 
-title:数组的本质是什么？
+IsOtherText: question
+caption: 数组的本质是什么？
+created: 20230429192229699
+creator: 马不前
+tags: ?
+title: 数组的本质是什么？
+tmap.id: 897a77b3-ca2f-41ae-8809-b9f72aa1e304
+type: text/vnd.tiddlywiki
 
 数组是stack上分配的单个块的内存。
 

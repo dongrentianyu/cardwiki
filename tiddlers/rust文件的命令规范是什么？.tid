@@ -1,9 +1,11 @@
-caption:rust文件的命令规范是什么？
-created:20230429202014769
-creator:马不前
-IsOtherText:question
-tags:? 
-title:rust文件的命令规范是什么？
+IsOtherText: question
+caption: rust文件的命令规范是什么？
+created: 20230429202014769
+creator: 马不前
+tags: ?
+title: rust文件的命令规范是什么？
+tmap.id: 254249ed-e407-4573-8e5d-69839221038e
+type: text/vnd.tiddlywiki
 
 用小写字母，多个单词用下划线隔开。
 
