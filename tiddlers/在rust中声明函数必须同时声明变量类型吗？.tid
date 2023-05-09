@@ -1,0 +1,13 @@
+IsOtherText: question
+caption: 在rust中声明函数必须同时声明变量类型吗？
+created: 20230509225224795
+creator: 马不前
+tags: ?
+title: 在rust中声明函数必须同时声明变量类型吗？
+tmap.id: a752b820-e613-43f0-b561-f23adab097bb
+type: text/vnd.tiddlywiki
+
+必须声明，这样编译器就无须推断。不声明会报错。
+
+
+

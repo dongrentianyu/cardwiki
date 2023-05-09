@@ -1,0 +1,13 @@
+IsOtherText: question
+caption: 在rust中，函数argument是什么意思？
+created: 20230509224831921
+creator: 马不前
+tags: ?
+title: 在rust中，函数argument是什么意思？
+tmap.id: 0ca17f7b-163e-415e-b7aa-b2921aa569db
+type: text/vnd.tiddlywiki
+
+一般翻译成实参，也就是实际的参数的值。比如某个具体的数值，5。
+
+
+

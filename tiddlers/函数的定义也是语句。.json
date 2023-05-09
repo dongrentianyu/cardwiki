@@ -1,0 +1,13 @@
+[
+    {
+        "title": "函数的定义也是语句。",
+        "creator": "马不前",
+        "tags": "?",
+        "text": "因为函数体是由一系列语句组成的，所以函数的定义也是语句。 ",
+        "created": "20230509230315039",
+        "type": "text/vnd.tiddlywiki",
+        "caption": "函数的定义也是语句。<<?s \"\"\"\n正确\n错误\n\"\"\"A>>",
+        "IsOtherText": "judgment-questions",
+        "tmap.id": "c629ae42-259f-4deb-afd1-7995cd2ff0b7"
+    }
+]

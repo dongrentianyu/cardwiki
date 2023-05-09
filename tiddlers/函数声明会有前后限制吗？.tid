@@ -1,0 +1,13 @@
+IsOtherText: question
+caption: 函数声明会有前后限制吗？
+created: 20230509225312723
+creator: 马不前
+tags: ?
+title: 函数声明会有前后限制吗？
+tmap.id: 1be6ca39-d52d-45e4-bac9-11359edb0206
+type: text/vnd.tiddlywiki
+
+没有前后限制。在后面声明了的函数同样可以在前面使用。
+
+
+

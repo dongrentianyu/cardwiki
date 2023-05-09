@@ -1,0 +1,12 @@
+IsOtherText: question
+caption: 函数体中的语句与表达式怎么区分？
+created: 20230509225732780
+creator: 马不前
+modified: 20230509151027987
+modifier: 马不前
+tags: ?
+title: 函数体中的语句与表达式怎么区分？
+tmap.id: 9478c635-3c30-4947-9de8-85fbf232537e
+type: text/vnd.tiddlywiki
+
+区分最简单的就是有没有返回值。语句没有返回值，或者说不返回值。所以不可以使用let将一个语句赋给一个变量。再简单一点的区分，就是语句是以分号结尾的。表达式只能是语句其中一部分内容。

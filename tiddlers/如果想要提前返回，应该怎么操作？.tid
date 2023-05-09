@@ -1,0 +1,9 @@
+caption:如果想要提前返回，应该怎么操作？
+created:20230509231729385
+creator:马不前
+IsOtherText:question
+tags:? 
+title:如果想要提前返回，应该怎么操作？
+
+需要使用return关键字，并指定一个值。大多数函数都是默认使用最后一个表达式作为返回值。
+

@@ -1,0 +1,9 @@
+caption:函数的返回值需要声明类型吗？
+created:20230509231550405
+creator:马不前
+IsOtherText:question
+tags:? 
+title:函数的返回值需要声明类型吗？
+
+需要，在->符号后边声明函数返回值的类型，但不可以返回值为命名。
+

@@ -1,0 +1,9 @@
+caption:如果使用else if来处理多重条件，会根据代码顺序来处理吗？
+created:20230509232651572
+creator:马不前
+IsOtherText:question
+tags:? 
+title:如果使用else if来处理多重条件，会根据代码顺序来处理吗？
+
+会根据代码顺序来处理不同分支。
+

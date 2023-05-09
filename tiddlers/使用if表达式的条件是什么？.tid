@@ -1,0 +1,9 @@
+caption:使用if表达式的条件是什么？
+created:20230509232410974
+creator:马不前
+IsOtherText:question
+tags:? 
+title:使用if表达式的条件是什么？
+
+必须是bool类型。而不能是其他类型。
+
