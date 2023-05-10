@@ -1,9 +1,11 @@
-caption:if表达式是什么意思？
-created:20230509232335487
-creator:马不前
-IsOtherText:question
-tags:? 
-title:if表达式是什么意思？
+IsOtherText: question
+caption: if表达式是什么意思？
+created: 20230509232335487
+creator: 马不前
+tags: ?
+title: if表达式是什么意思？
+tmap.id: 2d2cca3c-fd5b-45ca-b2a3-010d99d55def
+type: text/vnd.tiddlywiki
 
 if表达式允许根据条件来执行不同的代码分支。
 

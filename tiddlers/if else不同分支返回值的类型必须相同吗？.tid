@@ -1,9 +1,11 @@
-caption:if else不同分支返回值的类型必须相同吗？
-created:20230509233005057
-creator:马不前
-IsOtherText:question
-tags:? 
-title:if else不同分支返回值的类型必须相同吗？
+IsOtherText: question
+caption: if else不同分支返回值的类型必须相同吗？
+created: 20230509233005057
+creator: 马不前
+tags: ?
+title: if else不同分支返回值的类型必须相同吗？
+tmap.id: 4d67808c-6190-4d68-a6af-7ae968dd5993
+type: text/vnd.tiddlywiki
 
 必须相同，不同就会报错。因为rust是一个强类型语言，需要指明其类型才方便其他程序调用。
 

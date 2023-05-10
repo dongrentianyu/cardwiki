@@ -1,0 +1,11 @@
+IsOtherText: question
+caption: while循环是什么意思？
+created: 20230509233737144
+creator: 马不前
+tags: ?
+title: while循环是什么意思？
+tmap.id: 00546602-2c5f-47ed-bb29-8cbe0ed0614d
+type: text/vnd.tiddlywiki
+
+while循环是在每次执行循环体之前都判断一次条件，条件通过则执行，条件不通过就不执行。
+

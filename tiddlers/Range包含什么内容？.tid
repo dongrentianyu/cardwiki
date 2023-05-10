@@ -1,0 +1,11 @@
+IsOtherText: question
+caption: Range包含什么内容？
+created: 20230509234921400
+creator: 马不前
+tags: ?
+title: Range包含什么内容？
+tmap.id: 8f9d580f-09b8-4656-9845-9fd705a0c28a
+type: text/vnd.tiddlywiki
+
+Range由标准库提供，指定一个开始数字和一个结束数字。Range可以生成它们之间的数字，但不包含结束数字。通过rev的方法可以反转Range。
+

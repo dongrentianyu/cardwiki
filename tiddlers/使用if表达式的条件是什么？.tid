@@ -1,9 +1,11 @@
-caption:使用if表达式的条件是什么？
-created:20230509232410974
-creator:马不前
-IsOtherText:question
-tags:? 
-title:使用if表达式的条件是什么？
+IsOtherText: question
+caption: 使用if表达式的条件是什么？
+created: 20230509232410974
+creator: 马不前
+tags: ?
+title: 使用if表达式的条件是什么？
+tmap.id: 8edd594f-59ed-4cf1-a27e-15b8a73d2c78
+type: text/vnd.tiddlywiki
 
 必须是bool类型。而不能是其他类型。
 
