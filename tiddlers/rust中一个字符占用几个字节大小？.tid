@@ -1,0 +1,25 @@
+IsOtherText: question
+caption: rust中一个字符占用几个字节大小？
+created: 20230420224406214
+creator: 马不前
+difficulty: 6.058918652823539
+due: 20230511135050964
+grade: 0
+history: [{"due":"20230424024943924","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230422024943924"},{"due":"20230502123443641","interval":3,"difficulty":5.0538149682454625,"stability":7.290234566162131,"retrievability":0.8538149682454624,"grade":1,"lapses":0,"reps":2,"review":"20230425123443640"}]
+interval: 15
+lapses: 1
+modified: 20230510135050964
+modifier: 马不前
+reps: 1
+retrievability: 0.8051036845780759
+review: 20230510135050964
+stability: 0.7778591317158038
+tags: ?
+title: rust中一个字符占用几个字节大小？
+tmap.id: 13636e75-01f3-4074-b3c6-96ff925c545b
+type: text/vnd.tiddlywiki
+
+占用4个字节大小
+
+
+
