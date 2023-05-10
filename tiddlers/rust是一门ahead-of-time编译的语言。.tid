@@ -2,8 +2,18 @@ IsOtherText: Fill-in-the-blank
 caption: rust是一门<<?c ahead-of-time>>编译的语言。
 created: 20230429203116323
 creator: 马不前
-modified: 20230503050510259
+difficulty: 3.7478003092274337
+due: 20230511132316352
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20230510132316352
 modifier: 马不前
+reps: 1
+retrievability: 1
+review: 20230510132316352
+stability: 1.05
 tags: ?
 title: rust是一门ahead-of-time编译的语言。
 tmap.id: e6c7079a-575b-49e5-bf09-afe13224be2d

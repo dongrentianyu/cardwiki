@@ -2,6 +2,18 @@ IsOtherText: question
 caption: cargo check的用处是什么？
 created: 20230429213625047
 creator: 马不前
+difficulty: 3.7478003092274337
+due: 20230511132510982
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20230510132510982
+modifier: 马不前
+reps: 1
+retrievability: 1
+review: 20230510132510982
+stability: 1.05
 tags: ?
 title: cargo check的用处是什么？
 tmap.id: 5ca074c7-1d7c-428a-819a-76545ebd77ea

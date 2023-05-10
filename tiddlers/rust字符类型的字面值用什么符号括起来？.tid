@@ -1,0 +1,22 @@
+IsOtherText: question
+caption: rust字符类型的字面值用什么符号括起来？
+created: 20230420224334660
+creator: 马不前
+difficulty: 6.1693430339558235
+due: 20230525133337791
+grade: 1
+history: [{"due":"20230424024940438","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230422024940438"},{"due":"20230426123440675","interval":3,"difficulty":6.0538149682454625,"stability":0.7778591317158038,"retrievability":0.8538149682454624,"grade":0,"lapses":1,"reps":1,"review":"20230425123440675"},{"due":"20230430020337912","interval":4,"difficulty":6.835516724064039,"stability":0.5762522178987278,"retrievability":0.5817017558185764,"grade":0,"lapses":2,"reps":1,"review":"20230429020337912"}]
+interval: 11
+lapses: 2
+modified: 20230510133337791
+modifier: 马不前
+reps: 2
+retrievability: 0.1338263098917844
+review: 20230510133337791
+stability: 15.458165727722363
+tags: ?
+title: rust字符类型的字面值用什么符号括起来？
+tmap.id: 05e019c4-cb0c-4f47-81a1-24aebca1fc57
+type: text/vnd.tiddlywiki
+
+使用单引号括起来
