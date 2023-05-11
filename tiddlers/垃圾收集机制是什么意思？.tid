@@ -1,0 +1,9 @@
+caption:垃圾收集机制是什么意思？
+created:20230510221823390
+creator:马不前
+IsOtherText:question
+tags:? 
+title:垃圾收集机制是什么意思？
+
+在一些编程语言里，比如c语言和java语言，会有gc也就是垃圾收集机制，在程序运行时，它们会不断地寻找不再使用的内存。然后回收。
+
