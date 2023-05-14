@@ -1,0 +1,9 @@
+caption:存储在stack上的数据是已知的大小吗？
+created:20230514183730661
+creator:马不前
+IsOtherText:question
+tags:? 
+title:存储在stack上的数据是已知的大小吗？
+
+所有存储在stack上的数据必须拥有已经的固定的大小。也就是说是已经划分好了，然后存放的。
+

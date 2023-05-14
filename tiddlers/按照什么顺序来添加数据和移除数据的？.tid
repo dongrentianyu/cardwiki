@@ -1,0 +1,9 @@
+caption:按照什么顺序来添加数据和移除数据的？
+created:20230514183606611
+creator:马不前
+IsOtherText:question
+tags:? 
+title:按照什么顺序来添加数据和移除数据的？
+
+按值的接收顺序来存储数据，按相反的顺序来移除数据。后进先出，也就是LIFO，last in first out。
+

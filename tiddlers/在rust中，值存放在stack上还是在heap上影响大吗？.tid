@@ -1,0 +1,9 @@
+caption:在rust中，值存放在stack上还是在heap上影响大吗？
+created:20230514183311410
+creator:马不前
+IsOtherText:question
+tags:? 
+title:在rust中，值存放在stack上还是在heap上影响大吗？
+
+影响很大，rust作为系统级编程语言，值放在stack还是heap对语言的行为和要做的决定影响很大。
+
