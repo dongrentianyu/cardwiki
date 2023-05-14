@@ -1,18 +1,18 @@
 IsOtherText: yes
 created: 20230308211532978
 creator: 马不前
-difficulty: 5.268273641696113
-due: 20230514015929050
+difficulty: 4.36640039719487
+due: 20230617093658482
 grade: 2
-history: [{"due":"20230314120854861","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230312120854860"},{"due":"20230414101554824","interval":32,"difficulty":5.385302018885184,"stability":1.4816364413634358,"retrievability":0.18530201888518416,"grade":0,"lapses":1,"reps":1,"review":"20230413101554824"},{"due":"20230421040745474","interval":7,"difficulty":6.19318287891843,"stability":1.097623272188053,"retrievability":0.607880860033245,"grade":0,"lapses":2,"reps":1,"review":"20230420040745474"},{"due":"20230427025005563","interval":2,"difficulty":6.218506768385217,"stability":4.530431593188205,"retrievability":0.8253238894667869,"grade":1,"lapses":2,"reps":2,"review":"20230422025005563"}]
-interval: 7
+history: [{"due":"20230314120854861","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230312120854860"},{"due":"20230414101554824","interval":32,"difficulty":5.385302018885184,"stability":1.4816364413634358,"retrievability":0.18530201888518416,"grade":0,"lapses":1,"reps":1,"review":"20230413101554824"},{"due":"20230421040745474","interval":7,"difficulty":6.19318287891843,"stability":1.097623272188053,"retrievability":0.607880860033245,"grade":0,"lapses":2,"reps":1,"review":"20230420040745474"},{"due":"20230427025005563","interval":2,"difficulty":6.218506768385217,"stability":4.530431593188205,"retrievability":0.8253238894667869,"grade":1,"lapses":2,"reps":2,"review":"20230422025005563"},{"due":"20230514015929050","interval":7,"difficulty":5.268273641696113,"stability":14.709120487344082,"retrievability":0.8497668733108954,"grade":2,"lapses":2,"reps":3,"review":"20230429015929050"}]
+interval: 15
 lapses: 2
-modified: 20230429015929050
+modified: 20230514093658482
 modifier: 马不前
-reps: 3
-retrievability: 0.8497668733108954
-review: 20230429015929050
-stability: 14.709120487344082
+reps: 4
+retrievability: 0.8981267554987573
+review: 20230514093658482
+stability: 34.41081310395302
 tags: 奥斯丁是谁 ?
 title: 语用力理论生成的三种行为.
 tmap.id: b7a810a2-9d05-427d-8d1f-7153d02675fa

@@ -1,0 +1,22 @@
+IsOtherText: question
+caption: 表达式会计算并产生一个值吗？
+created: 20230509230241342
+creator: 马不前
+difficulty: 3.6172003743083225
+due: 20230525091859678
+grade: 1
+history: [{"due":"20230511132707724","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230510132707724"}]
+interval: 4
+lapses: 0
+modified: 20230514091859678
+modifier: 马不前
+reps: 2
+retrievability: 0.6694000650808889
+review: 20230514091859678
+stability: 10.988240556284424
+tags: ?
+title: 表达式会计算并产生一个值吗？
+tmap.id: 79c43a55-ec70-4f96-8371-accef27edca2
+type: text/vnd.tiddlywiki
+
+表达式会计算并产生一个值。

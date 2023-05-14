@@ -2,18 +2,18 @@ IsOtherText: question
 caption: if else不同分支返回值的类型必须相同吗？
 created: 20230509233005057
 creator: 马不前
-difficulty: 3.7478003092274337
-due: 20230511132805042
-grade: -1
-history: []
-interval: 0
+difficulty: 2.6172003743083225
+due: 20230528093241420
+grade: 2
+history: [{"due":"20230511132805042","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230510132805042"}]
+interval: 4
 lapses: 0
-modified: 20230510132805042
+modified: 20230514093241420
 modifier: 马不前
-reps: 1
-retrievability: 1
-review: 20230510132805042
-stability: 1.05
+reps: 2
+retrievability: 0.6694000650808889
+review: 20230514093241420
+stability: 13.514774326309727
 tags: ?
 title: if else不同分支返回值的类型必须相同吗？
 tmap.id: 4d67808c-6190-4d68-a6af-7ae968dd5993

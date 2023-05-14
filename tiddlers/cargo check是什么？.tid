@@ -2,18 +2,18 @@ IsOtherText: question
 caption: cargo check是什么？
 created: 20230429213531442
 creator: 马不前
-difficulty: 3.7478003092274337
-due: 20230511132505713
-grade: -1
-history: []
-interval: 0
+difficulty: 2.6172003743083225
+due: 20230528093152633
+grade: 2
+history: [{"due":"20230511132505713","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230510132505713"}]
+interval: 4
 lapses: 0
-modified: 20230510132505713
+modified: 20230514093152634
 modifier: 马不前
-reps: 1
-retrievability: 1
-review: 20230510132505713
-stability: 1.05
+reps: 2
+retrievability: 0.6694000650808889
+review: 20230514093152633
+stability: 13.514774326309727
 tags: ?
 title: cargo check是什么？
 tmap.id: 4008a7e0-c1b8-40c0-9ae3-f858b8059c63

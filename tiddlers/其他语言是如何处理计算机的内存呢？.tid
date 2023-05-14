@@ -1,9 +1,23 @@
-caption:其他语言是如何处理计算机的内存呢？
-created:20230510221950754
-creator:马不前
-IsOtherText:question
-tags:? 
-title:其他语言是如何处理计算机的内存呢？
+IsOtherText: question
+caption: 其他语言是如何处理计算机的内存呢？
+created: 20230510221950754
+creator: 马不前
+difficulty: 2.9854211216321387
+due: 20230515091420756
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20230514091420756
+modifier: 马不前
+reps: 1
+retrievability: 1
+review: 20230514091420756
+stability: 1.05
+tags: ?
+title: 其他语言是如何处理计算机的内存呢？
+tmap.id: d22b215c-4c04-45d6-81d4-5c9de72b6fa1
+type: text/vnd.tiddlywiki
 
 在其他语言中，程序员必须显式地分配和释放内存。估计就是需要手动调用去实现内存管理，因而比较麻烦。
 

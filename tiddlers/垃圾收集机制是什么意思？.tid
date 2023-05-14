@@ -1,9 +1,22 @@
-caption:垃圾收集机制是什么意思？
-created:20230510221823390
-creator:马不前
-IsOtherText:question
-tags:? 
-title:垃圾收集机制是什么意思？
+IsOtherText: question
+caption: 垃圾收集机制是什么意思？
+created: 20230510221823390
+creator: 马不前
+difficulty: 2.9854211216321387
+due: 20230515091409288
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20230514091627141
+modifier: 马不前
+reps: 1
+retrievability: 1
+review: 20230514091409288
+stability: 1.05
+tags: ?
+title: 垃圾收集机制是什么意思？
+tmap.id: 78c7bd5d-fe2e-4b21-9df1-5e6fba68ae76
+type: text/vnd.tiddlywiki
 
-在一些编程语言里，比如c语言和java语言，会有gc也就是垃圾收集机制，在程序运行时，它们会不断地寻找不再使用的内存。然后回收。
-
+在一些编程语言里，比如c语言和java语言，会有gc也就是垃圾收集机制，在程序运行时，它们会不断地寻找不再使用的内存。然后回收。一般来说是，预先划定要使用内存的大小。如果内存有余，那就需要回收。如果内存不够，就需要往后再分配一块内存。然后通样会造成有余的情况，所以也会进行回收。

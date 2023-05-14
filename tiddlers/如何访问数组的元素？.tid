@@ -2,18 +2,18 @@ IsOtherText: question
 caption: 如何访问数组的元素？
 created: 20230429192651619
 creator: 马不前
-difficulty: 3.7478003092274337
-due: 20230511131941603
-grade: -1
-history: []
-interval: 0
+difficulty: 2.6172003743083225
+due: 20230528092522597
+grade: 2
+history: [{"due":"20230511131941603","interval":0,"difficulty":3.7478003092274337,"stability":1.05,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20230510131941603"}]
+interval: 4
 lapses: 0
-modified: 20230510131941603
+modified: 20230514092522597
 modifier: 马不前
-reps: 1
-retrievability: 1
-review: 20230510131941603
-stability: 1.05
+reps: 2
+retrievability: 0.6694000650808889
+review: 20230514092522596
+stability: 13.514774326309727
 tags: ?
 title: 如何访问数组的元素？
 tmap.id: 7506905e-5653-4fb9-b9d5-a5775042189d
@@ -21,7 +21,4 @@ type: text/vnd.tiddlywiki
 
 可以使用索引来访问数组的元素。
 
-类似于 let a = month[1];
-
-
-
+类似于 `let a = month[1];`

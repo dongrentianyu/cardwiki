@@ -1,9 +1,23 @@
-caption:在rust中，什么是所有权？
-created:20230510221636162
-creator:马不前
-IsOtherText:question
-tags:? 
-title:在rust中，什么是所有权？
+IsOtherText: question
+caption: 在rust中，什么是所有权？
+created: 20230510221636162
+creator: 马不前
+difficulty: 2.9854211216321387
+due: 20230515091402437
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20230514091402437
+modifier: 马不前
+reps: 1
+retrievability: 1
+review: 20230514091402437
+stability: 1.05
+tags: ?
+title: 在rust中，什么是所有权？
+tmap.id: 92fb2840-99a7-4812-82f5-610d5869caaf
+type: text/vnd.tiddlywiki
 
 rust的核心特性就是所有权，所有程序在运行时都必须管理它们使用计算机内存的方式。也就是直接以所有权的方式管理内存。
 
