@@ -1,0 +1,11 @@
+caption:访问数据的话，是stack快还是heap快？
+created:20230514184734300
+creator:马不前
+IsOtherText:question
+tags:? 
+title:访问数据的话，是stack快还是heap快？
+
+访问stack的数据要快，因为heap的数据还需要通过指针才能找到heap的数据。
+
+指针就相当于一个缓存。对于现代处理器来说，因为缓存的缘故，如果指令在内存中跳转的次数越少，速度就越快。
+

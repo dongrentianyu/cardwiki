@@ -1,0 +1,9 @@
+caption:在函数调用时，stack和heap是如何工作的呢？
+created:20230514185059999
+creator:马不前
+IsOtherText:question
+tags:? 
+title:在函数调用时，stack和heap是如何工作的呢？
+
+当代码调用函数时，值被传入到函数中，（也包括指向heap的指针）。函数本地的变量被压到stack上。当函数结束后，这些值就会从stack上弹出。
+

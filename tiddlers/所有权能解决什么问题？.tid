@@ -1,0 +1,11 @@
+caption:所有权能解决什么问题？
+created:20230514185234177
+creator:马不前
+IsOtherText:question
+tags:? 
+title:所有权能解决什么问题？
+
+跟踪代码的哪些部分正在使用heap的哪些数据。最小化heap上的重复数据量。清理heap上未使用的数据以避免空间不足。
+
+一旦懂得了所有权，就不需要经常去想stack或heap了。但是需要知道管理heap数据是所有权存在的原因。
+

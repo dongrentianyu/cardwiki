@@ -1,0 +1,9 @@
+caption:把数据存放在stack上快还是存放在heap上快？
+created:20230514184354645
+creator:马不前
+IsOtherText:question
+tags:? 
+title:把数据存放在stack上快还是存放在heap上快？
+
+把数据存放在stack上要比在heap上分配快得多。把值压到stack上不叫分配。
+
