@@ -16,7 +16,6 @@ review: 20230514092545755
 stability: 13.514774326309727
 tags: ?
 title: 如何确定正确安装了rust？
-tmap.id: 59f684eb-6061-4e4b-9a54-2c663a83bc33
 type: text/vnd.tiddlywiki
 
 `rustc --version`

@@ -16,7 +16,6 @@ review: 20230514092758012
 stability: 10.988240556284424
 tags: ?
 title: 数组的好处是什么？
-tmap.id: 1bdfc9c2-2ad3-43c6-874e-82105416a524
 type: text/vnd.tiddlywiki
 
 如果想让数据存放在stack（栈）上，而不是heap（堆）上，那用数组会更好。或者想保证有固定数量的元素，这时使用数组更有好处。

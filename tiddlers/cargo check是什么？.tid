@@ -16,7 +16,6 @@ review: 20230514093152633
 stability: 13.514774326309727
 tags: ?
 title: cargo check是什么？
-tmap.id: 4008a7e0-c1b8-40c0-9ae3-f858b8059c63
 type: text/vnd.tiddlywiki
 
 cargo check是用来检查代码能否通过编译器的。确保能够通过编译，但不产生任何可执行文件。

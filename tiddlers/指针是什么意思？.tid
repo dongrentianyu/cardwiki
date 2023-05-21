@@ -1,9 +1,10 @@
-caption:指针是什么意思？
-created:20230514184136815
-creator:马不前
-IsOtherText:question
-tags:? 
-title:指针是什么意思？
+IsOtherText: question
+caption: 指针是什么意思？
+created: 20230514184136815
+creator: 马不前
+tags: ?
+title: 指针是什么意思？
+type: text/vnd.tiddlywiki
 
 简单理解，指针是分配到某一空间的地址。
 

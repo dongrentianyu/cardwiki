@@ -1,9 +1,10 @@
-caption:如果编译时大小未知的数据会放在哪里？
-created:20230514183856759
-creator:马不前
-IsOtherText:question
-tags:? 
-title:如果编译时大小未知的数据会放在哪里？
+IsOtherText: question
+caption: 如果编译时大小未知的数据会放在哪里？
+created: 20230514183856759
+creator: 马不前
+tags: ?
+title: 如果编译时大小未知的数据会放在哪里？
+type: text/vnd.tiddlywiki
 
 编译时大小未知的数据或运行时大小可能发生变化的数据必须存放在heap上。
 

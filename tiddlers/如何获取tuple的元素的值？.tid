@@ -16,7 +16,6 @@ review: 20230510133120512
 stability: 27.109327358377044
 tags: ?
 title: 如何获取tuple的元素的值？
-tmap.id: bb06d6a0-4c8e-4fce-9d68-5bf4a1ba5866
 type: text/vnd.tiddlywiki
 
 可以用模式匹配来解构（destructure）一个tuple来获取元素的值。

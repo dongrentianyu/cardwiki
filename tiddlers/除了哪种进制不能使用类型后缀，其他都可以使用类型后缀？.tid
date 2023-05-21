@@ -16,7 +16,6 @@ review: 20230510134609505
 stability: 31.018673700360196
 tags: ?
 title: 除了哪种进制不能使用类型后缀，其他都可以使用类型后缀？
-tmap.id: a1400778-c693-45b9-abe2-3c94d24ea37c
 type: text/vnd.tiddlywiki
 
 byte类型，byte类型以b开头，后面用引号括起来内容

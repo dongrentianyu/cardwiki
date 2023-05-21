@@ -10,7 +10,6 @@
         "modifier": "马不前",
         "caption": "函数的定义也是语句。<<?s \"\"\"\n正确\n错误\n\"\"\"A>>",
         "IsOtherText": "judgment-questions",
-        "tmap.id": "c629ae42-259f-4deb-afd1-7995cd2ff0b7",
         "due": "20230525091930625",
         "interval": "4",
         "difficulty": "3.6172003743083225",

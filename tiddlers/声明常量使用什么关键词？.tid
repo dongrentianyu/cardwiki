@@ -16,7 +16,6 @@ review: 20230514093614466
 stability: 30.206226584778637
 tags: ?
 title: 声明常量使用什么关键词？
-tmap.id: 3cbf18c3-1942-4de1-8307-7e9ec7db3c41
 type: text/vnd.tiddlywiki
 
 使用const关键词

@@ -16,7 +16,6 @@ review: 20230510134713982
 stability: 27.62859909855359
 tags: ?
 title: iszie和usize类型是什么意思？
-tmap.id: cb7d6bb4-489e-48c7-925b-4da964355f18
 type: text/vnd.tiddlywiki
 
 这两个类型表示其位数是由程序运行的计算机的架构所决定的。如果计算机是64位，就会编译成64位。

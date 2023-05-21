@@ -16,7 +16,6 @@ review: 20230514092434009
 stability: 13.514774326309727
 tags: ?
 title: 如何发布构建的文件？
-tmap.id: f29ccdda-02cc-4fba-a1f2-2fde57d36631
 type: text/vnd.tiddlywiki
 
 `cargo build --release`

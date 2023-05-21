@@ -1,9 +1,10 @@
-caption:压入栈是什么意思？
-created:20230514183451406
-creator:马不前
-IsOtherText:question
-tags:? 
-title:压入栈是什么意思？
+IsOtherText: question
+caption: 压入栈是什么意思？
+created: 20230514183451406
+creator: 马不前
+tags: ?
+title: 压入栈是什么意思？
+type: text/vnd.tiddlywiki
 
 往stack添加数据。
 

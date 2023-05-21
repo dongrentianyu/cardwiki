@@ -16,7 +16,6 @@ review: 20230510134628770
 stability: 27.62859909855359
 tags: ?
 title: 为什么rust在编译时必须知道所有变量的类型？
-tmap.id: 0fff41fe-c609-4500-a71e-61b9b95c5f16
 type: text/vnd.tiddlywiki
 
 因为rust是静态编译语言，一般的值编译器通常能判断出具体类型，但对于数字或类型比较多时，就必须添加类型标注。

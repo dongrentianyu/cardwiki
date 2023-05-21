@@ -16,7 +16,6 @@ review: 20230510133352025
 stability: 27.109327358377044
 tags: ?
 title: tuple多个类型可以有多个值吗？
-tmap.id: a11ecfd6-68df-43b1-b1bc-52cc4014438b
 type: text/vnd.tiddlywiki
 
 可以有多个值。

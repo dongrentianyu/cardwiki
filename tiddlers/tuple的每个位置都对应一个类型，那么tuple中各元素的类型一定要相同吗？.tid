@@ -16,7 +16,6 @@ review: 20230510133346467
 stability: 27.109327358377044
 tags: ?
 title: tuple的每个位置都对应一个类型，那么tuple中各元素的类型一定要相同吗？
-tmap.id: c6c156a5-2eff-4dcc-9829-20af659a9cca
 type: text/vnd.tiddlywiki
 
 不必相同。

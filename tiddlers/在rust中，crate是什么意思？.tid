@@ -16,7 +16,6 @@ review: 20230514093015818
 stability: 13.514774326309727
 tags: ?
 title: 在rust中，crate是什么意思？
-tmap.id: af8df455-c8cc-4088-be9e-d7f855dba76c
 type: text/vnd.tiddlywiki
 
 在rust里，代码的包称作crate。也就是包和库。

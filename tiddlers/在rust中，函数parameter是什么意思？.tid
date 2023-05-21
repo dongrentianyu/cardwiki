@@ -16,7 +16,6 @@ review: 20230514092944247
 stability: 13.514774326309727
 tags: ?
 title: 在rust中，函数parameter是什么意思？
-tmap.id: 6271ae3e-e975-4468-bcc4-98e2a8c3fc58
 type: text/vnd.tiddlywiki
 
 在中文里翻译成形参，也就是参数名，简单理解就是参数的名称。

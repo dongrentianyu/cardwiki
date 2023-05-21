@@ -16,7 +16,6 @@ review: 20230514092652942
 stability: 13.514774326309727
 tags: ?
 title: 如何用cargo创建新项目？
-tmap.id: 5f19f30b-26aa-4d19-a632-284ec46fbd88
 type: text/vnd.tiddlywiki
 
 cargo new hello_cargo 

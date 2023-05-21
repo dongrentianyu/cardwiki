@@ -16,7 +16,6 @@ review: 20230514092728983
 stability: 0.4259704768919878
 tags: ?
 title: 使用if表达式的条件是什么？
-tmap.id: 8edd594f-59ed-4cf1-a27e-15b8a73d2c78
 type: text/vnd.tiddlywiki
 
 必须是bool类型。而不能是其他类型。

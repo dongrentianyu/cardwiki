@@ -16,7 +16,6 @@ review: 20230514092329525
 stability: 13.514774326309727
 tags: ?
 title: 如何编译rust程序？
-tmap.id: b8847d69-5ad4-4260-969b-f3f4641098de
 type: text/vnd.tiddlywiki
 
 输入编译命令`rustc main.rs`，其中main是文件名。运行后会在windows里生成一个目录文件，main.exe，点击可运行或在终端里运行。

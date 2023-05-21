@@ -16,7 +16,6 @@ review: 20230514092555167
 stability: 10.988240556284424
 tags: ?
 title: 如何声明一个数组？
-tmap.id: 9d765fa5-4b35-4fdd-ad10-882b1f1551ca
 type: text/vnd.tiddlywiki
 
 在中括号里，各值用英文逗号隔开。

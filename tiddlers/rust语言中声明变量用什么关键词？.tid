@@ -16,7 +16,6 @@ review: 20230429021352227
 stability: 17.045836180026466
 tags: ?
 title: rust语言中声明变量用什么关键词？
-tmap.id: 0498a3b6-f69a-43f6-ac71-a8f015710df4
 type: text/vnd.tiddlywiki
 
 用let关键词

@@ -16,7 +16,6 @@ review: 20230514091420756
 stability: 1.05
 tags: ?
 title: 其他语言是如何处理计算机的内存呢？
-tmap.id: d22b215c-4c04-45d6-81d4-5c9de72b6fa1
 type: text/vnd.tiddlywiki
 
 在其他语言中，程序员必须显式地分配和释放内存。估计就是需要手动调用去实现内存管理，因而比较麻烦。

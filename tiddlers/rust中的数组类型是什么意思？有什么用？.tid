@@ -16,7 +16,6 @@ review: 20230510134554872
 stability: 24.887201962367776
 tags: ?
 title: rust中的数组类型是什么意思？有什么用？
-tmap.id: 35fdc19e-876c-474f-a568-a15cd317f807
 type: text/vnd.tiddlywiki
 
 可以将多个值放在一个类型里

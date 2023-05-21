@@ -16,7 +16,6 @@ review: 20230514093259652
 stability: 10.988240556284424
 tags: ?
 title: if表达式是什么意思？
-tmap.id: 2d2cca3c-fd5b-45ca-b2a3-010d99d55def
 type: text/vnd.tiddlywiki
 
 if表达式允许根据条件来执行不同的代码分支。

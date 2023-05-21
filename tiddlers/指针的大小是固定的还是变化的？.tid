@@ -1,9 +1,10 @@
-caption:指针的大小是固定的还是变化的？
-created:20230514184259548
-creator:马不前
-IsOtherText:question
-tags:? 
-title:指针的大小是固定的还是变化的？
+IsOtherText: question
+caption: 指针的大小是固定的还是变化的？
+created: 20230514184259548
+creator: 马不前
+tags: ?
+title: 指针的大小是固定的还是变化的？
+type: text/vnd.tiddlywiki
 
 指针的大小是已知固定的，因此可以把指针存放在stack上。但如果想要实际数据，也就是指针所指的空间地址，就需要使用指针来定位。
 

@@ -1,9 +1,10 @@
-caption:所有权能解决什么问题？
-created:20230514185234177
-creator:马不前
-IsOtherText:question
-tags:? 
-title:所有权能解决什么问题？
+IsOtherText: question
+caption: 所有权能解决什么问题？
+created: 20230514185234177
+creator: 马不前
+tags: ?
+title: 所有权能解决什么问题？
+type: text/vnd.tiddlywiki
 
 跟踪代码的哪些部分正在使用heap的哪些数据。最小化heap上的重复数据量。清理heap上未使用的数据以避免空间不足。
 

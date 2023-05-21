@@ -16,7 +16,6 @@ review: 20230514092227733
 stability: 13.514774326309727
 tags: ?
 title: 可以直接在let语句中使用if表达式吗？
-tmap.id: 8c31894e-7a38-4803-8757-4a1c21b76ff5
 type: text/vnd.tiddlywiki
 
 可以，因为if是一个表达式，所以可以将它放在let语句等号的右边。

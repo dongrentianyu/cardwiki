@@ -16,7 +16,6 @@ review: 20230429021101667
 stability: 17.045836180026466
 tags: ?
 title: 常量能不能使用mut关键词修改为可变的？
-tmap.id: 75fa2854-ff99-47f0-a3f2-045a6885bb82
 type: text/vnd.tiddlywiki
 
 不能，常量永远不可变

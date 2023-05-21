@@ -1,9 +1,10 @@
-caption:数据存放的距离近或远，处理器的处理速度就会相应的快或慢吗？
-created:20230514184905498
-creator:马不前
-IsOtherText:question
-tags:? 
-title:数据存放的距离近或远，处理器的处理速度就会相应的快或慢吗？
+IsOtherText: question
+caption: 数据存放的距离近或远，处理器的处理速度就会相应的快或慢吗？
+created: 20230514184905498
+creator: 马不前
+tags: ?
+title: 数据存放的距离近或远，处理器的处理速度就会相应的快或慢吗？
+type: text/vnd.tiddlywiki
 
 是的，如果数据存放的距离比较近，处理器的处理速度就会更快一些，比如存放在stack上。反之亦然。
 

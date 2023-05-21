@@ -16,7 +16,6 @@ review: 20230514093119814
 stability: 13.514774326309727
 tags: ?
 title: 在rust中是先编译还是先运行？
-tmap.id: 0f9bd04c-4a50-4ebc-b937-9236affba73c
 type: text/vnd.tiddlywiki
 
 先编译，而且运行之前必须被编译。在windows系统上会生成一个pdb文件，里面包含了调试信息。

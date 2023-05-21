@@ -16,7 +16,6 @@ review: 20230514092901535
 stability: 13.514774326309727
 tags: ?
 title: 为什么要用rust？简要说明一下就行。
-tmap.id: c57394c5-f375-4e28-9616-a251d62bc29c
 type: text/vnd.tiddlywiki
 
 高性能，内存安全。同时能更好利用多处理器。可以替换c类语言，特别是c++，减少很多常见的bug。

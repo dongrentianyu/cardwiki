@@ -16,7 +16,6 @@ review: 20230510134813933
 stability: 27.62859909855359
 tags: ?
 title: rust的浮点类型是什么意思？
-tmap.id: c3e72b8f-f427-4467-aed7-1ffe32e12fa2
 type: text/vnd.tiddlywiki
 
 是指含有小数部分的数值类型。

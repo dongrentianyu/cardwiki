@@ -16,7 +16,6 @@ review: 20230429021146259
 stability: 17.045836180026466
 tags: ?
 title: 使用shadowing之后，新变量默认是可变的还是不可变的？
-tmap.id: cb2f320f-95b5-450e-a9f0-525ba6b6032e
 type: text/vnd.tiddlywiki
 
 默认是不可变的，如果要改变应该要加上mut关键字。不然编译会报错。

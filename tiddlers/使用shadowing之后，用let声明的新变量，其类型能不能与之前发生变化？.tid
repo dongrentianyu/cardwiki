@@ -16,7 +16,6 @@ review: 20230514093900422
 stability: 35.23519073914325
 tags: ?
 title: 使用shadowing之后，用let声明的新变量，其类型能不能与之前发生变化？
-tmap.id: 7d6640fc-3c27-4b4c-adc9-47d57daae673
 type: text/vnd.tiddlywiki
 
 可以发生改变的。这一点可以从视频里的例子中看到，从空格的字符串形式，转换成字符串的长度，也就是数值类型，非常方便。

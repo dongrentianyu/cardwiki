@@ -16,7 +16,6 @@ review: 20230510135012404
 stability: 31.018673700360196
 tags: ?
 title: rust中的数据类型有哪几种？
-tmap.id: c90a95b0-6db5-46ba-b452-2d7324a9b636
 type: text/vnd.tiddlywiki
 
 有两种，一种是标量类型，一种是复合类型

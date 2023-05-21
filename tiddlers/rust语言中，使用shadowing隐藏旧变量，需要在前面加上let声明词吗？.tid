@@ -16,7 +16,6 @@ review: 20230514093427967
 stability: 0.3155666907540653
 tags: ?
 title: rust语言中，使用shadowing隐藏旧变量，需要在前面加上let声明词吗？
-tmap.id: 689df1ef-8217-4284-a10b-e4fee53a6a11
 type: text/vnd.tiddlywiki
 
 需要，不然编译器会报错。

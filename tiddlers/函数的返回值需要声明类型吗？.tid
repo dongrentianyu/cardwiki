@@ -16,7 +16,6 @@ review: 20230514092059091
 stability: 10.988240556284424
 tags: ?
 title: 函数的返回值需要声明类型吗？
-tmap.id: ba57d3fd-d572-435d-82ef-ee304f3e774b
 type: text/vnd.tiddlywiki
 
 需要，在->符号后边声明函数返回值的类型，但不可以返回值为命名。

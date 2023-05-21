@@ -16,7 +16,6 @@ review: 20230429021343272
 stability: 17.045836180026466
 tags: ?
 title: rust语言中默认情况下变量是可变的还是不可变的？
-tmap.id: 00e4e71f-d3c6-442f-877e-dfe438e0fe32
 type: text/vnd.tiddlywiki
 
 默认是不可变的

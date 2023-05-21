@@ -16,7 +16,6 @@ review: 20230510134728152
 stability: 31.018673700360196
 tags: ?
 title: rust布尔类型中有几个值？占几个字节大小，符号是什么？
-tmap.id: b2fa0002-f038-43ce-af35-590e06a82163
 type: text/vnd.tiddlywiki
 
 有两个值，分别是true和false，只占一个字节大小，其符号是bool。

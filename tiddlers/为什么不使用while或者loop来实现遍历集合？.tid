@@ -16,7 +16,6 @@ review: 20230514092853771
 stability: 13.514774326309727
 tags: ?
 title: 为什么不使用while或者loop来实现遍历集合？
-tmap.id: c9b3e93b-89fe-4789-bac3-e733accf7e77
 type: text/vnd.tiddlywiki
 
 可以实现，但易错，且低效。主要是因为while判断语句写错了的话，比如超出index范围，就会引起报错，程序恐慌。使用for循环更加简洁，紧凑。for循环可以针对集合中的每个元素来执行一些代码，也就更准确。

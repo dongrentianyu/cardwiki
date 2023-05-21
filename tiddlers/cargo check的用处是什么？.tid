@@ -16,7 +16,6 @@ review: 20230514093131227
 stability: 13.514774326309727
 tags: ?
 title: cargo check的用处是什么？
-tmap.id: 5ca074c7-1d7c-428a-819a-76545ebd77ea
 type: text/vnd.tiddlywiki
 
 cargo check虽然不产生可执行文件，但cargo check要比cargo build要快得多，编写代码的时候可以连续反复调用cargo check来检查代码，提高效率。

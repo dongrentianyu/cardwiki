@@ -16,7 +16,6 @@ review: 20230514094028561
 stability: 35.23519073914325
 tags: ?
 title: rust中shadowing是什么意思？
-tmap.id: 102323bb-5a83-41ba-8fca-fa5daf28cd8e
 type: text/vnd.tiddlywiki
 
 可以使用相同的名字来声明新的变量，新的变量会shadowing之前的声明的同名变量，这个词语翻译成隐藏，也就是隐藏了之前的变量从而有了新的变量

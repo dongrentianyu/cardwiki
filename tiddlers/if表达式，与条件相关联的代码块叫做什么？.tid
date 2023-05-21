@@ -16,7 +16,6 @@ review: 20230514093252281
 stability: 13.514774326309727
 tags: ?
 title: if表达式，与条件相关联的代码块叫做什么？
-tmap.id: 4d0f5bbe-e253-46cf-aa67-347ef7cb8c6e
 type: text/vnd.tiddlywiki
 
 叫做分支，arm。可以在后面加上else表达式作为不同分支。

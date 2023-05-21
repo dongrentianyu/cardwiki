@@ -16,7 +16,6 @@ review: 20230514092122937
 stability: 0.7778591317158038
 tags: ?
 title: 函数体是什么意思？
-tmap.id: c8e50e4a-3835-4890-aab6-109aa28e0a76
 type: text/vnd.tiddlywiki
 
 函数体是由一系列语句组成，可选的由一个表达式结束。

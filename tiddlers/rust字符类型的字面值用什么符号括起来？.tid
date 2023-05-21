@@ -16,7 +16,6 @@ review: 20230510133337791
 stability: 15.458165727722363
 tags: ?
 title: rust字符类型的字面值用什么符号括起来？
-tmap.id: 05e019c4-cb0c-4f47-81a1-24aebca1fc57
 type: text/vnd.tiddlywiki
 
 使用单引号括起来

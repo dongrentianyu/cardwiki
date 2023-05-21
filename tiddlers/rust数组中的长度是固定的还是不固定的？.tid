@@ -16,7 +16,6 @@ review: 20230514093400084
 stability: 13.514774326309727
 tags: ?
 title: rust数组中的长度是固定的还是不固定的？
-tmap.id: 6c8fb352-72d9-4f8a-b165-760311d9b485
 type: text/vnd.tiddlywiki
 
 是固定的。

@@ -16,7 +16,6 @@ review: 20230510134832597
 stability: 31.018673700360196
 tags: ?
 title: rust浮点类型有几种？如果不写，那默认的是哪种？
-tmap.id: 3218a82d-aa66-48d8-9fc1-0bfd071be474
 type: text/vnd.tiddlywiki
 
 有两种基础的浮点类型，分别是f32和f64，分别是单精度和双精度，默认的是f64，运行更快更准确。

@@ -16,7 +16,6 @@ review: 20230514092804080
 stability: 13.514774326309727
 tags: ?
 title: 数组的劣势？
-tmap.id: 5e171cf8-2db0-4437-a6e5-0a5d713e7a5d
 type: text/vnd.tiddlywiki
 
 数组没有vector灵活。

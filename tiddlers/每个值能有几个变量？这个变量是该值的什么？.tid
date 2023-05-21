@@ -1,9 +1,10 @@
-caption:每个值能有几个变量？这个变量是该值的什么？
-created:20230514185709988
-creator:马不前
-IsOtherText:question
-tags:? 
-title:每个值能有几个变量？这个变量是该值的什么？
+IsOtherText: question
+caption: 每个值能有几个变量？这个变量是该值的什么？
+created: 20230514185709988
+creator: 马不前
+tags: ?
+title: 每个值能有几个变量？这个变量是该值的什么？
+type: text/vnd.tiddlywiki
 
 只能有一个变量，这个变量是该值的所有者。
 

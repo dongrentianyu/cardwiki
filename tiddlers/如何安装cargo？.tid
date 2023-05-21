@@ -16,7 +16,6 @@ review: 20230514092312954
 stability: 13.514774326309727
 tags: ?
 title: 如何安装cargo？
-tmap.id: 654e4e6f-3a56-44a5-a1ad-36e272448896
 type: text/vnd.tiddlywiki
 
 安装rust的时候会自动安装cargo。

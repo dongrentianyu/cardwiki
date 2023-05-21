@@ -16,7 +16,6 @@ review: 20230514093225395
 stability: 13.514774326309727
 tags: ?
 title: cargo.toml是什么文件？
-tmap.id: 0faf86f8-0e28-4b4f-8510-f05cf9525704
 type: text/vnd.tiddlywiki
 
 toml是tom's obvious,minimal language格式，是cargo的配置格式。

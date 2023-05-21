@@ -16,7 +16,6 @@ review: 20230510135153178
 stability: 23.92053606766919
 tags: ?
 title: rust有几种基础的复合类型？分别是什么？
-tmap.id: 6bcb8d8b-3414-4bc2-9549-600acec78ea2
 type: text/vnd.tiddlywiki
 
 提供两种基础复合类型，分别是元组（tuple）和数组

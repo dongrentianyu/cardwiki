@@ -16,7 +16,6 @@ review: 20230510134151391
 stability: 24.887201962367776
 tags: ?
 title: 如何访问tuple的元素？
-tmap.id: 99c9f089-f989-47c0-8926-1b56d29d34bb
 type: text/vnd.tiddlywiki
 
 在tuple变量中使用点标记法，后接元素的索引号。

@@ -16,7 +16,6 @@ review: 20230514093532965
 stability: 0.3155666907540653
 tags: ?
 title: rust中一个字符占用几个字节大小？
-tmap.id: 13636e75-01f3-4074-b3c6-96ff925c545b
 type: text/vnd.tiddlywiki
 
 占用4个字节大小

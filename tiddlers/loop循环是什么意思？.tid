@@ -16,7 +16,6 @@ review: 20230514093304211
 stability: 13.514774326309727
 tags: ?
 title: loop循环是什么意思？
-tmap.id: 6bad325a-cf65-4a16-8760-2fc6017c008b
 type: text/vnd.tiddlywiki
 
 loop关键字是选择rust反复执行一段代码，直到喊停。

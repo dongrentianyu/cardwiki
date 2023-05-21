@@ -16,7 +16,6 @@ review: 20230514093353022
 stability: 13.514774326309727
 tags: ?
 title: rust是一门ahead-of-time编译的语言。
-tmap.id: e6c7079a-575b-49e5-bf09-afe13224be2d
 type: text/vnd.tiddlywiki
 
 其他人无需安装rust，直接把可执行文件给别人运行就行。

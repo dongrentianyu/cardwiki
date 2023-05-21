@@ -16,7 +16,6 @@ review: 20230510135018889
 stability: 31.018673700360196
 tags: ?
 title: rust中整数类型如果没有设置类型后缀，rust会默认使用哪种类型？
-tmap.id: 001ccc3b-648a-4e8c-9405-7da906d1b94b
 type: text/vnd.tiddlywiki
 
 整数的默认类型是i32，总体上速度很快。

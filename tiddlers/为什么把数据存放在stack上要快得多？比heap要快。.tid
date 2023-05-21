@@ -1,9 +1,10 @@
-caption:为什么把数据存放在stack上要快得多？比heap要快。
-created:20230514184453362
-creator:马不前
-IsOtherText:question
-tags:? 
-title:为什么把数据存放在stack上要快得多？比heap要快。
+IsOtherText: question
+caption: 为什么把数据存放在stack上要快得多？比heap要快。
+created: 20230514184453362
+creator: 马不前
+tags: ?
+title: 为什么把数据存放在stack上要快得多？比heap要快。
+type: text/vnd.tiddlywiki
 
 因为操作系统不需要寻找用来存储新数据的空间，那个位置永远都在stack的顶端。而在heap上分配空间需要做更多的工作，操作系统需要先找到一个足够大的空间存放数据，而且要做好记录方便下次分配。所以需要的时间就很长。
 

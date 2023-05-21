@@ -16,7 +16,6 @@ review: 20230510135121606
 stability: 23.92053606766919
 tags: ?
 title: 简单写一个tuple的例子
-tmap.id: 507af598-8ccd-4aed-90b5-b2cbec0f3146
 type: text/vnd.tiddlywiki
 
 let state: (i32,f64,u8) = (500,6.4,1);

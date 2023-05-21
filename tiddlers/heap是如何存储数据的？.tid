@@ -1,9 +1,10 @@
-caption:heap是如何存储数据的？
-created:20230514184014281
-creator:马不前
-IsOtherText:question
-tags:? 
-title:heap是如何存储数据的？
+IsOtherText: question
+caption: heap是如何存储数据的？
+created: 20230514184014281
+creator: 马不前
+tags: ?
+title: heap是如何存储数据的？
+type: text/vnd.tiddlywiki
 
 当把数据放入heap中，就会请求一定数量的空间，但大小未知，操作系统会在heap中找到足够大的空间并标记为在用。且返回一个指针。整个过程称为在heap上进行分配，有时仅称为“分配”。
 

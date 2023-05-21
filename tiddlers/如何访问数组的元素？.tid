@@ -16,7 +16,6 @@ review: 20230514092522596
 stability: 13.514774326309727
 tags: ?
 title: 如何访问数组的元素？
-tmap.id: 7506905e-5653-4fb9-b9d5-a5775042189d
 type: text/vnd.tiddlywiki
 
 可以使用索引来访问数组的元素。

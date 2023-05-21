@@ -16,7 +16,6 @@ review: 20230514093406024
 stability: 13.514774326309727
 tags: ?
 title: rust文件的命令规范是什么？
-tmap.id: 254249ed-e407-4573-8e5d-69839221038e
 type: text/vnd.tiddlywiki
 
 用小写字母，多个单词用下划线隔开。

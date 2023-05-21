@@ -16,7 +16,6 @@ review: 20230514094017948
 stability: 35.23519073914325
 tags: ?
 title: rust常量的命令规范是什么？
-tmap.id: 976eabb1-36eb-4a53-b452-17539ce89de3
 type: text/vnd.tiddlywiki
 
 使用全大写字母，多个单词之间用下划线隔开

@@ -16,7 +16,6 @@ review: 20230514092253972
 stability: 13.514774326309727
 tags: ?
 title: 如果使用else if来处理多重条件，会根据代码顺序来处理吗？
-tmap.id: 365e41ea-fc36-4486-a01f-30f58a1fb0e5
 type: text/vnd.tiddlywiki
 
 会根据代码顺序来处理不同分支。

@@ -16,7 +16,6 @@ review: 20230514093232888
 stability: 13.514774326309727
 tags: ?
 title: cargo是什么，有什么功能和作用？
-tmap.id: 8853886d-5db3-4411-aa9f-cce7372caa72
 type: text/vnd.tiddlywiki
 
 cargo是rust的构建系统和包管理工具。可以用来构建代码，下载依赖的库和构建这些库等。

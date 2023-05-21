@@ -16,7 +16,6 @@ review: 20230514093334652
 stability: 13.514774326309727
 tags: ?
 title: rust程序中main函数的特殊之处？
-tmap.id: 6d36d23f-3e3c-4090-baa3-ec6ec50862bb
 type: text/vnd.tiddlywiki
 
 main函数是每个rust可执行程序最先运行的代码。

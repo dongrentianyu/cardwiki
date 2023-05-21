@@ -16,7 +16,6 @@ review: 20230514093338260
 stability: 13.514774326309727
 tags: ?
 title: rust的缩进是空格还是tab键？
-tmap.id: 40c717c3-93ad-430a-8e4d-f9a226f45411
 type: text/vnd.tiddlywiki
 
 是四个空格，而不是tab键。tab键是生成制表符的。

@@ -16,7 +16,6 @@ review: 20230510135005647
 stability: 31.018673700360196
 tags: ?
 title: rust整数类型有符号与无符号是什么意思？
-tmap.id: 1377da24-c2d2-4193-a33f-4198f0ac0cd7
 type: text/vnd.tiddlywiki
 
 有符号的是指可以有负号，无符号的只能是非负的。有符号的以i开头，无符号的以u开头。

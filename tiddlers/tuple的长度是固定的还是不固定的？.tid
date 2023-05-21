@@ -16,7 +16,6 @@ review: 20230510134600790
 stability: 36.52285846289681
 tags: ?
 title: tuple的长度是固定的还是不固定的？
-tmap.id: 7c4d5e77-331e-4e64-bf6e-a943c70b1612
 type: text/vnd.tiddlywiki
 
 长度是固定的，声明之后就无法改变。类似基本类型里的常量类型。

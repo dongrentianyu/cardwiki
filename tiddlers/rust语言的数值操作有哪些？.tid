@@ -16,7 +16,6 @@ review: 20230510134904273
 stability: 31.018673700360196
 tags: ?
 title: rust语言的数值操作有哪些？
-tmap.id: b14ace65-e5bd-4476-b618-a124ff518010
 type: text/vnd.tiddlywiki
 
 基本的加减乘除，取余都有，和其他编程语言基本一致。
